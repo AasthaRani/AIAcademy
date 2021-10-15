@@ -1,0 +1,2 @@
+# AIAcademy
+my first repository
